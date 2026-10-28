@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793150117|6581291';
+const CACHE_VERSION = '1793152015|8067420';
 /** @type {string} */
 const CACHE_PREFIX = 'RPG-кликер-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
